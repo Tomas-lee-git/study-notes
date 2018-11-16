@@ -1,6 +1,11 @@
 # 《JavaScript权威指南》（第六版）学习笔记
 
 ## 第一章 JavaScript概述
+> Js是一种高端的、动态的、弱类型的编程语言
+
+> 集健壮性、高效性和通用性为一身
+
+> 本书分为四个部分：JavaScript语言核心、客户端JavaScript、JavaScript核心参考、客户端JavaScript参考
 ## 第二章 词法结构
  
 > **保留字**
