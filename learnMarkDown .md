@@ -1,4 +1,4 @@
-[MacDown 使用快捷键](http://www.morningsun.net.cn/2017/04/16/Markdown%E2%80%94%E2%80%94%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
+[MacDown 快捷键](http://www.morningsun.net.cn/2017/04/16/Markdown%E2%80%94%E2%80%94%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
 # 一级标题
 ## 二级标题
 ### 三级标题 
